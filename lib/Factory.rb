@@ -9,5 +9,4 @@ test = Test.new 123
 puts test[0]
 puts test['name']
 puts test.name
-=end
-
+=en
