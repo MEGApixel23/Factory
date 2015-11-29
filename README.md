@@ -1,8 +1,6 @@
 # Factory
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/Factory`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Factory is a ruby gem which has the same behavior as Ruby`s [Struct class](http://ruby-doc.org/core-2.2.0/Struct.html). Written as test task for [RubyGarage Courses](http://rubygarage.org/)
 
 ## Installation
 
@@ -19,10 +17,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install Factory
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
